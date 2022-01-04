@@ -1,2 +1,3 @@
 # 2021rsipac_changeDetection_TOP5
-2021“升腾杯”遥感影像智能处理算法掌握发展过程三等奖（TOP5）方案分析：https://zhuanlan.zhihu.com/p/453136594解决方案说明： train.py 用于训练 test.py 用于推理
+说明： train.py 用于训练，test.py 用于推理，test.py 可对大尺度遥感用影像进行图像分析推理
+详细文档：https://zhuanlan.zhihu.com/p/453136594
